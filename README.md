@@ -1,1 +1,3 @@
 # KIM
+I'm student and majar in big data analysis.
+I'm living in bundang and 24 years old.
