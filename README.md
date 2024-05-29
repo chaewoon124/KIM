@@ -5,3 +5,6 @@ I really want to go home right now.
 I'm going to play badminton. 
 
 ### 1. 취미 추가하기
+I'm going to play badminton.  
+
+### 2. 특기 업데이트
